@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:vuongngo.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/vuong-ngo-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -61,21 +61,4 @@ Tôi là sinh viên **Saigon Technology University (STU)** và là một Softwar
   </tr>
 </table>
 
----
-
-### 📊 Github Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USER&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USER&layout=compact&theme=tokyonight" />
-</div>
-
----
-
-### 📅 Current Missions
-
-- [ ] Hoàn thành đồ án **Library Management STU** (UML & System design).
-- [ ] Optimize **Niri/Hyprland** config files.
-- [ ] Nâng cấp **Project English Infrastructure** (Target: Daily communication).
-
-<p align="right"><i>Last Update: 2026.04.27 🚀</i></p>
+<p align="right"><i>Last Update: 2026.05.16 🚀</i></p>
